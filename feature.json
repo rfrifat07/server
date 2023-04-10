@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "companyLogo": "https://i.ibb.co/xXBx3xB/Group-10021.png",
+    "jobTitle": "Front-end Developer",
+    "companyName": "Airbnb,Inc",
+    "remoteOrOnsite": "Remote",
+    "location": "New York, NY",
+    "fullTimeOrPartTime": "Full-time",
+    "salary": "$100,000 - $120,000",
+    "jobDescription": "We are seeking an experienced front-end developer to join our team.",
+    "jobResponsibility": "Develop and maintain our website and web applications.",
+    "educationalRequirements": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "3+ years of experience in front-end development.",
+    "contactInformation": {
+      "phone": "123-456-7890",
+      "email": "finance@yahoo.com/"
+    }
+  },
+  {
+    "id": 2,
+    "companyLogo": "https://i.ibb.co/2sKWGWB/google-1-1-1.png",
+    "jobTitle": "Back-end Developer",
+    "companyName": "Google Inc",
+    "remoteOrOnsite": "Onsite",
+    "location": "San Francisco, CA",
+    "fullTimeOrPartTime": "Full-time",
+    "salary": "$120,000 - $140,000",
+    "jobDescription": "We are seeking an experienced back-end developer to join our team.",
+    "jobResponsibility": "Design and develop our server-side applications and APIs.",
+    "educationalRequirements": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "5+ years of experience in back-end development.",
+    "contactInformation": {
+      "phone": "123-456-7890",
+      "email": "jobs@google.company.com"
+    }
+  },
+  {
+    "id": 3,
+    "companyLogo": "https://i.ibb.co/g7k9Qsk/tesla-9-1.png",
+    "jobTitle": "UI/UX Designer",
+    "companyName": "Tesla",
+    "remoteOrOnsite": "Remote",
+    "location": "Austin, TX",
+    "fullTimeOrPartTime": "Part-time",
+    "salary": "$60,000 - $80,000",
+    "jobDescription": "We are seeking a talented UI/UX designer to join our team.",
+    "jobResponsibility": "Create user-centered designs and prototypes for our website and applications.",
+    "educationalRequirements": "Bachelor's degree in Design or related field.",
+    "experiences": "2+ years of experience in UI/UX design.",
+    "contactInformation": {
+      "phone": "123-456-7890",
+      "email": "tesla@gmail.com"
+    }
+  },
+  {
+    "id": 4,
+    "companyLogo": "https://i.ibb.co/RpcWvZp/netflix-4-1.png",
+    "jobTitle": "Software Engineer",
+    "companyName": "NETFLIX",
+    "remoteOrOnsite": "onsite",
+    "location": "Seattle, WA",
+    "fullTimeOrPartTime": "Full-time",
+    "salary": "$100,000 - $120,000",
+    "jobDescription": "We are seeking a software engineer to join our team.",
+    "jobResponsibility": "Develop and maintain software applications for our clients.",
+    "educationalRequirements": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "3+ years of experience in software engineering.",
+    "contactInformation": {
+      "phone": "123-456-7890",
+      "email": "netflix@ceo.com"}
+    }
+    ,
+    {
+      "id": 5,
+      "companyLogo": "https://example.com/company2.png",
+      "jobTitle": "Marketing Manager",
+      "companyName": "XYZ Company",
+      "remoteOrOnsite": "Remote",
+      "location": "Anywhere",
+      "fullTimeOrPartTime": "Full-time",
+      "salary": "$80,000 - $100,000",
+      "jobDescription": "We are seeking a Marketing Manager to join our team. The ideal candidate will have experience creating and executing successful marketing campaigns, as well as managing a team of marketers.",
+      "jobResponsibility": "• Develop and execute marketing campaigns\n• Manage a team of marketers\n• Analyze and report on campaign performance\n• Collaborate with other departments to ensure consistent brand messaging\n• Continuously improve our marketing strategy",
+      "educationalRequirements": "Bachelor's degree in Marketing or related field",
+      "experiences": "5+ years of professional experience in marketing",
+      "contactInformation": {
+        "phone": "(123) 456-7890",
+        "email": "careers@xyzcompany.com"
+      }
+    },
+    {
+      "id": 6,
+      "companyLogo": "https://example.com/company3.png",
+      "jobTitle": "Sales Representative",
+      "companyName": "123 Industries",
+      "remoteOrOnsite": "Onsite",
+      "location": "Chicago, IL",
+      "fullTimeOrPartTime": "Full-time",
+      "salary": "$50,000 - $60,000",
+      "jobDescription": "We are looking for a Sales Representative to join our team. The ideal candidate will have a proven track record of success in sales and a passion for helping customers.",
+      "jobResponsibility": "• Generate new leads and convert them into customers\n• Manage existing customer accounts\n• Develop and maintain strong relationships with customers\n• Meet or exceed sales targets\n• Continuously improve our sales process",
+      "educationalRequirements": "Bachelor's degree in Business or related field",
+      "experiences": "2+ years of professional experience in sales",
+      "contactInformation": {
+        "phone": "(123) 456-7890",
+        "email": "careers@123industries.com"
+      }
+    },
+    {
+      "id": 7,
+      "companyLogo": "https://example.com/company1_logo.png",
+      "jobTitle": "Web Developer",
+      "companyName": "ABC Inc.",
+      "remoteOrOnsite": "Remote",
+      "location": "Anytown, USA",
+      "fullTimeOrPartTime": "Full-time",
+      "salary": "$80,000 - $100,000",
+      "jobDescription": "We are seeking an experienced web developer to join our team. The successful candidate will be responsible for designing, developing, and maintaining web applications.",
+      "jobResponsibility": "Develop and maintain web applications using modern web technologies.",
+      "educationalRequirements": "Bachelor's degree in Computer Science or related field.",
+      "experiences": "5+ years of experience in web development.",
+      "contactInformation": {
+        "phone": "555-123-4567",
+        "email": "jobs@abcinc.com"
+      }
+    },
+    {
+      "id": 8,
+      "companyLogo": "https://example.com/company2_logo.png",
+      "jobTitle": "Software Engineer",
+      "companyName": "XYZ Corp.",
+      "remoteOrOnsite": "Onsite",
+      "location": "Somewhere, USA",
+      "fullTimeOrPartTime": "Full-time",
+      "salary": "$90,000 - $120,000",
+      "jobDescription": "We are seeking a talented software engineer to join our team. The successful candidate will be responsible for developing high-quality software.",
+      "jobResponsibility": "Develop high-quality software using modern programming languages.",
+      "educationalRequirements": "Bachelor's degree in Computer Science or related field.",
+      "experiences": "3+ years of experience in software development.",
+      "contactInformation": {
+        "phone": "555-123-4567",
+        "email": "jobs@xyzcorp.com"
+      }
+    },
+    {
+      "id": 9,
+      "companyLogo": "https://example.com/company3_logo.png",
+      "jobTitle": "Data Analyst",
+      "companyName": "123 Corp.",
+      "remoteOrOnsite": "Remote",
+      "location": "Anywhere, USA",
+      "fullTimeOrPartTime": "Full-time",
+      "salary": "$60,000 - $80,000",
+      "jobDescription": "We are seeking a data analyst to join our team. The successful candidate will be responsible for analyzing and interpreting complex data sets.",
+      "jobResponsibility": "Analyze and interpret complex data sets.",
+      "educationalRequirements": "Bachelor's degree in Statistics, Mathematics, Computer Science, or related field.",
+      "experiences": "2+ years of experience in data analysis.",
+      "contactInformation": {
+        "phone": "555-123-4567",
+        "email": "jobs@123corp.com"
+      }
+    }
+  ]
