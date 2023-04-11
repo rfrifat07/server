@@ -1,27 +1,27 @@
 [
-    {
-      "_id": "6433573b6d1b536d372c0647",
-      "logo": "path/to/job1-logo.png",
-      "title": "Account & Finance",
-      "jobs_available": 100
-    },
-    {
-      "_id": "6433573b747d3ecace343bb4",
-      "logo": "path/to/job2-logo.png",
-      "title": "Creative Design",
-      "jobs_available": 500
-    },
-    {
-      "_id": "6433573b6c25fa31dcb616dd",
-      "logo": "path/to/job3-logo.png",
-      "title": "Marketing & Sales",
-      "jobs_available": 80
-    }
-    ,
-    {
-      "_id": "6433573b81963c14a6251cc5",
-      "logo": "path/to/job3-logo.png",
-      "title": "Engineering Job",
-      "jobs_available": 800
-    }
-  ]
+  {
+    "_id": "6433573b6d1b536d372c0647",
+    "logo": "https://i.ibb.co/6HWWn6N/accounts-1.png",
+    "title": "Account & Finance",
+    "jobs_available": 100
+  },
+  {
+    "_id": "6433573b747d3ecace343bb4",
+    "logo": "https://i.ibb.co/TgyfT8q/business-1.png",
+    "title": "Creative Design",
+    "jobs_available": 500
+  },
+  {
+    "_id": "6433573b6c25fa31dcb616dd",
+    "logo": "https://i.ibb.co/By5TN5p/social-media-1.png",
+    "title": "Marketing & Sales",
+    "jobs_available": 80
+  }
+  ,
+  {
+    "_id": "https://i.ibb.co/wYm0w6D/chip-1.png",
+    "logo": "path/to/job3-logo.png",
+    "title": "Engineering Job",
+    "jobs_available": 800
+  }
+]
